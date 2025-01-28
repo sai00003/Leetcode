@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sai00003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/sai00003/Leetcode/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/sai00003/Leetcode/tree/master/0179-largest-number) |
 | [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sai00003/Leetcode/tree/master/0051-n-queens) |
 | [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Bitmask
 |  |
