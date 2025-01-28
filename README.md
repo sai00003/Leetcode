@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sai00003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sai00003/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+## Math
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
