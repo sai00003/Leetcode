@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sai00003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0179-largest-number](https://github.com/sai00003/Leetcode/tree/master/0179-largest-number) |
 | [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sai00003/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
