@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sai00003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/sai00003/Leetcode/tree/master/0179-largest-number) |
 | [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sai00003/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sai00003/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1038-number-of-squareful-arrays](https://github.com/sai00003/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 ## Math
 |  |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sai00003/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sai00003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
